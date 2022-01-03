@@ -1,0 +1,9 @@
+﻿  唱名练习系统.c
+D:\Visual Studio\My Projects\唱名练习系统\唱名练习系统\唱名练习系统.c(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\唱名练习系统\唱名练习系统\唱名练习系统.c(36,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\唱名练习系统\唱名练习系统\唱名练习系统.c(48,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\唱名练习系统\唱名练习系统\唱名练习系统.c(67,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\唱名练习系统\唱名练习系统\唱名练习系统.c(72,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\唱名练习系统\唱名练习系统\唱名练习系统.c(82,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\唱名练习系统\唱名练习系统\唱名练习系统.c(84,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  唱名练习系统.vcxproj -> D:\Visual Studio\My Projects\唱名练习系统\Debug\唱名练习系统.exe
