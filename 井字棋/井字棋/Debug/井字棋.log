@@ -1,0 +1,3 @@
+﻿  game.c
+D:\Visual Studio\My Projects\井字棋\井字棋\game.c(20,18): warning C4013: “getch”未定义；假设外部返回 int
+  井字棋.vcxproj -> D:\Visual Studio\My Projects\井字棋\Debug\井字棋.exe
