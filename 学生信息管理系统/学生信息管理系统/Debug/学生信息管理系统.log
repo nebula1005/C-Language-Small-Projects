@@ -1,0 +1,20 @@
+﻿  学生信息管理系统.c
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(69,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(70,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(71,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(73,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(74,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(75,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(85,18): warning C4101: “temp”: 未引用的局部变量
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(139,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(180,9): warning C4013: “gets”未定义；假设外部返回 int
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(188,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(282,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(286,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(393,15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(434,23): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(445,21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(447,21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(644,15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Visual Studio\My Projects\学生信息管理系统\学生信息管理系统\学生信息管理系统.c(660,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  学生信息管理系统.vcxproj -> D:\Visual Studio\My Projects\学生信息管理系统\Debug\学生信息管理系统.exe
